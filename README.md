@@ -28,6 +28,8 @@ This ESC design has **not been tested** in hardware yet. Schematics, PCB layouts
 - **BMI160 IMU** – Onboard sensor for potential inertial feedback and experimentation
 - **Expansion Port for Bluetooth Module** – Optional wireless connectivity for future development
 
+![Motor Controller](Overview.png)
+
 ---
 
 ## 📁 Repository Structure
