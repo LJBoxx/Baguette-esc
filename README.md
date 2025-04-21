@@ -4,6 +4,14 @@
 ⚠️ **Please note: this project is in a very early stage and has not yet been tested.** Use at your own risk.
 
 ---
+## ❗ Liability Warning
+
+⚠️ THIS PROJECT IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY.
+I AM NOT RESPONSIBLE FOR ANY DAMAGE TO PERSONS, PROPERTY, OR EQUIPMENT RESULTING FROM THE USE, MISUSE, OR MALFUNCTION OF THIS HARDWARE OR SOFTWARE.
+
+BY USING ANY PART OF THIS PROJECT, YOU AGREE TO ASSUME ALL RISK AND LIABILITY.
+
+---
 
 ## 🚧 Project Status: Experimental & Untested
 
@@ -53,7 +61,7 @@ This ESC design has **not been tested** in hardware yet. Schematics, PCB layouts
 
 3. **⚠️ Warning Before Building**
    - This design is **completely untested**
-   - Electrical and thermal characteristics are unverified
+   Electrical, thermal, and functional characteristics are unverified
    - Proceed only if you're comfortable debugging hardware issues
 
 ---
