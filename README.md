@@ -1,6 +1,6 @@
 # Baguette-ESC – Experimental Compact ESC Based on VESC
 
-**OpenESC** is an open-source, compact Electronic Speed Controller (ESC) inspired by the VESC platform. It is designed to push boundaries in high-voltage motor control and explore innovative hardware concepts.  
+**BaguetteESC** is an open-source, compact Electronic Speed Controller (ESC) inspired by the VESC platform. It is designed to push boundaries in high-voltage motor control and explore innovative hardware concepts.  
 ⚠️ **Please note: this project is in a very early stage and has not yet been tested.** Use at your own risk.
 
 ---
